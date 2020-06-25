@@ -1,0 +1,225 @@
+completion_text: |-
+  <p>Haz completa la primera semana, exitos</p>
+description: "Conceptos generales de administraci\xF3n financiera"
+next_flow_id: quiz2
+next_flow_title: Quiz semana 1
+pages:
+- content: "<ul style=\"margin-top: 5px; margin-left: 20px; padding-left: 15px; margin-bottom:\
+    \ 5px; color: rgb(68, 85, 85); font-family: Georgia, &quot;Times New Roman&quot;,\
+    \ Times, serif;\"><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Maximizar\
+    \ el valor de la empresa</p></li><li style=\"margin-top: 0px; margin-left: 0px;\
+    \ padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">Maximizaci\xF3n del valor de mercado</p></li><li style=\"margin-top:\
+    \ 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom:\
+    \ 9px; padding: 0px;\">Maximizaci\xF3n de la utilidades retenidas</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Margen neto, margen bruto\
+    \ o margen de contribuci\xF3n, margen operativo, margen de costo</p></li><li style=\"\
+    margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px;\">Principio de m\xE1xima&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos12/rentypro/rentypro.shtml#ANALIS\" id=\"\
+    autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">rentabilidad</a>&nbsp;o de rendimiento\
+    \ m\xE1ximo</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Principio\
+    \ de&nbsp;<a href=\"https://www.monografias.com/trabajos/tomadecisiones/tomadecisiones.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">equilibrio</a>&nbsp;financiero:\
+    \ situaci\xF3n que tiende a estandarizar la postura de un gerente frente a una\
+    \ posici\xF3n de rentabilidad y&nbsp;<a href=\"https://www.monografias.com/trabajos3/gerenylider/gerenylider.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">gerencia</a>&nbsp;de&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos35/tipos-riesgos/tipos-riesgos.shtml\" id=\"\
+    autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">riesgos</a>&nbsp;y la liquidez</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Principio del&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos7/coad/coad.shtml#costo\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">costo</a>&nbsp;m\xEDnimo versus principio\
+    \ de maximizaci\xF3n de utilidades</p></li><li style=\"margin-top: 0px; margin-left:\
+    \ 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">Principio hol\xEDstico: norma de&nbsp;<a href=\"https://www.monografias.com/trabajos34/el-caracter/el-caracter.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">car\xE1cter</a>&nbsp;general que\
+    \ indica que la gerencia de una firma debe ver a la empresa de manera integral\
+    \ como un&nbsp;<a href=\"https://www.monografias.com/trabajos11/teosis/teosis.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">sistema</a>&nbsp;integrado, la\
+    \ totalidad</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Principio\
+    \ de diversificaci\xF3n de la inversi\xF3n:&nbsp;<a href=\"https://www.monografias.com/Politica/index.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">pol\xEDtica</a>&nbsp;de invertir\
+    \ en diversos activos con el fin de reducir el&nbsp;<a href=\"https://www.monografias.com/trabajos13/ripa/ripa.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">riesgo</a>&nbsp;conjunto de un\
+    \ portafolio de inversiones determinado</p></li><li style=\"margin-top: 0px; margin-left:\
+    \ 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">An\xE1lisis de Riesgo:&nbsp;<a href=\"https://www.monografias.com/trabajos11/metods/metods.shtml#ANALIT\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">An\xE1lisis</a>&nbsp;de la variabilidad\
+    \ de los rendimientos relacionados con un activo o una inversi\xF3n espec\xED\
+    ficos. Posibilidad de enfrentar una p\xE9rdida financiera (Principio del riesgo\
+    \ m\xEDnimo)</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">Principio\
+    \ marginal de utilidades retenidas: capacidad de generar un retorno m\xE1s alto\
+    \ sobre las utilidades retenidas de lo que un accionistas podr\xEDa recibir despu\xE9\
+    s de pagar los&nbsp;<a href=\"https://www.monografias.com/trabajos7/impu/impu.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">impuestos</a>&nbsp;sobre los dividendos\
+    \ distribuidos.</p></li></ul>"
+  id: page1
+  title: 'Dia 1: Principios Financieros'
+  type: Page
+- content: "<p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color: rgb(68,\
+    \ 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
+    >Se centran en la forma en la que las&nbsp;<a href=\"https://www.monografias.com/trabajos11/empre/empre.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">empresas</a>&nbsp;pueden crear\
+    \ valor y mantenerlo a trav\xE9s del uso eficiente de los recursos financieros.\
+    \ Se subdivide en tres partes:</p><p style=\"margin-top: 9px; margin-bottom: 9px;\
+    \ padding: 0px; color: rgb(68, 85, 85); font-family: Georgia, &quot;Times New\
+    \ Roman&quot;, Times, serif;\">a) Las decisiones de inversi\xF3n, que se centran\
+    \ en el estudio de los activos reales (tangibles o intangibles) en los que la\
+    \ empresa deber\xEDa invertir.</p><p style=\"margin-top: 9px; margin-bottom: 9px;\
+    \ padding: 0px; color: rgb(68, 85, 85); font-family: Georgia, &quot;Times New\
+    \ Roman&quot;, Times, serif;\">b) Las decisiones de financiaci\xF3n, que estudian\
+    \ la obtenci\xF3n de fondos (provenientes de los inversores que adquieren los\
+    \ activos financieros emitidos por la empresa) para que la compa\xF1\xEDa pueda\
+    \ adquirir los activos en los que ha decidido invertir.</p><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px; color: rgb(68, 85, 85); font-family:\
+    \ Georgia, &quot;Times New Roman&quot;, Times, serif;\">c) Las decisiones directivas,\
+    \ que ata\xF1en a las decisiones operativas y financieras del d\xEDa a d\xEDa\
+    \ como, por ejemplo: el tama\xF1o de la empresa, su ritmo de crecimiento, el tama\xF1\
+    o del&nbsp;<a href=\"https://www.monografias.com/trabajos15/financiamiento/financiamiento.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">cr\xE9dito</a>&nbsp;concedido a\
+    \ sus&nbsp;<a href=\"https://www.monografias.com/trabajos11/sercli/sercli.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">clientes</a>, la remuneraci\xF3\
+    n del&nbsp;<a href=\"https://www.monografias.com/trabajos11/fuper/fuper.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">personal</a>&nbsp;de la empresa,\
+    \ etc.</p><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color:\
+    \ rgb(68, 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
+    >Algunas de las zonas de estudio de las finanzas corporativas son, por ejemplo:\
+    \ el equilibrio financiero, el an\xE1lisis de la inversi\xF3n en nuevos activos,\
+    \ el reemplazamiento de viejos activos, las&nbsp;<a href=\"https://www.monografias.com/trabajos6/fuso/fuso.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">fusiones</a>&nbsp;y adquisiciones\
+    \ de empresas, el an\xE1lisis del endeudamiento, la emisi\xF3n de&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos4/acciones/acciones.shtml\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">acciones</a>&nbsp;y&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos14/obligaciones/obligaciones.shtml\" id=\"\
+    autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">obligaciones</a>, etc.</p>"
+  id: page2
+  title: "D\xEDa 2: Visi\xF3n de las finanzas corporativas"
+  type: Page
+- content: "<p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color: rgb(68,\
+    \ 85, 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\"\
+    >Los&nbsp;<a href=\"https://www.monografias.com/trabajos16/objetivos-educacion/objetivos-educacion.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">objetivos</a>&nbsp;son resultados\
+    \ que&nbsp;<a href=\"https://www.monografias.com/trabajos11/empre/empre.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">una empresa</a>&nbsp;pretende alcanzar,\
+    \ o situaciones hacia donde \xE9sta pretende llegar.</p><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px; color: rgb(68, 85, 85); font-family:\
+    \ Georgia, &quot;Times New Roman&quot;, Times, serif;\">Establecer objetivos es\
+    \ esencial para el&nbsp;<a href=\"https://www.monografias.com/trabajos15/llave-exito/llave-exito.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">\xE9xito</a>&nbsp;de una empresa,\
+    \ \xE9stos establecen un curso a seguir y sirven como fuente de&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos28/saber-motivar/saber-motivar.shtml\" id=\"\
+    autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">motivaci\xF3n</a>&nbsp;para todos\
+    \ los miembros de la empresa.</p><p style=\"margin-top: 9px; margin-bottom: 9px;\
+    \ padding: 0px; color: rgb(68, 85, 85); font-family: Georgia, &quot;Times New\
+    \ Roman&quot;, Times, serif;\">Otras de las razones para establecer objetivos\
+    \ son:</p><ul style=\"margin-top: 5px; margin-left: 20px; padding-left: 15px;\
+    \ margin-bottom: 5px; color: rgb(68, 85, 85); font-family: Georgia, &quot;Times\
+    \ New Roman&quot;, Times, serif;\"><li style=\"margin-top: 0px; margin-left: 0px;\
+    \ padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">permiten enfocar esfuerzos hacia una misma&nbsp;<a href=\"https://www.monografias.com/trabajos15/direccion/direccion.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">direcci\xF3n</a>.</p></li><li style=\"\
+    margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px;\">sirven de gu\xEDa para la formulaci\xF3\
+    n de estrategias.</p></li><li style=\"margin-top: 0px; margin-left: 0px; padding-left:\
+    \ 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px;\">sirven\
+    \ de gu\xEDa para la asignaci\xF3n de recursos.</p></li><li style=\"margin-top:\
+    \ 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom:\
+    \ 9px; padding: 0px;\">sirven de base para la realizaci\xF3n de tareas o actividades.</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">permiten evaluar resultados,\
+    \ al comparar los resultados obtenidos con los objetivos propuestos y, de ese\
+    \ modo, medir la&nbsp;<a href=\"https://www.monografias.com/trabajos11/veref/veref.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">eficacia</a>&nbsp;o&nbsp;<a href=\"\
+    https://www.monografias.com/trabajos6/prod/prod.shtml\" id=\"autolink\" class=\"\
+    autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px; border-bottom-color:\
+    \ rgb(51, 102, 0);\">productividad</a>&nbsp;de la empresa, de cada \xE1rea, de\
+    \ cada&nbsp;<a href=\"https://www.monografias.com/trabajos14/dinamica-grupos/dinamica-grupos.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">grupo</a>&nbsp;o de cada trabajador.</p></li><li\
+    \ style=\"margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"\
+    margin-top: 9px; margin-bottom: 9px; padding: 0px;\">generan&nbsp;<a href=\"https://www.monografias.com/trabajos/hipoteorg/hipoteorg.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">coordinaci\xF3n</a>, organizaci\xF3\
+    n y&nbsp;<a href=\"https://www.monografias.com/trabajos14/control/control.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">control</a>.</p></li><li style=\"\
+    margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px;\">generan participaci\xF3n, compromiso\
+    \ y&nbsp;<a href=\"https://www.monografias.com/trabajos5/moti/moti.shtml#desa\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">motivaci\xF3n</a>; y, al alcanzarlos,\
+    \ generan un grado de satisfacci\xF3n.</p></li><li style=\"margin-top: 0px; margin-left:\
+    \ 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">revelan prioridades.</p></li><li style=\"margin-top: 0px; margin-left:\
+    \ 0px; padding-left: 0px;\"><p style=\"margin-top: 9px; margin-bottom: 9px; padding:\
+    \ 0px;\">producen&nbsp;<a href=\"https://www.monografias.com/trabajos15/fusion-adquis/fusion-adquis.shtml#FUENTE\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">sinergia</a>.</p></li><li style=\"\
+    margin-top: 0px; margin-left: 0px; padding-left: 0px;\"><p style=\"margin-top:\
+    \ 9px; margin-bottom: 9px; padding: 0px;\">disminuyen la incertidumbre.</p></li></ul><p\
+    \ style=\"margin-top: 9px; margin-bottom: 9px; padding: 0px; color: rgb(68, 85,\
+    \ 85); font-family: Georgia, &quot;Times New Roman&quot;, Times, serif;\">Las\
+    \ metas de la administraci\xF3n financiera son Maximizar el valor de la empresa.\
+    \ Esto se puede lograr, aumentando el valor de las acciones de la empresa. Nos\
+    \ podemos dar cuenta, de que la empresa realmente alcanzo sus metas, o que logro\
+    \ un \xE9xito, en sus utilidades, en el&nbsp;<a href=\"https://www.monografias.com/trabajos13/mercado/mercado.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">mercado</a>, sucursales, etc. La&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos4/costo/costo.shtml\" id=\"autolink\"\
+    \ class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width: 1px;\
+    \ border-bottom-color: rgb(51, 102, 0);\">utilidad</a>&nbsp;le da valor a las\
+    \ acciones, para tener una buena utilidad se debe ampliar el mercado, dar&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos15/mantenimiento-industrial/mantenimiento-industrial.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">mantenimiento</a>&nbsp;a la empresa\
+    \ (<a href=\"https://www.monografias.com/trabajos7/impu/impu.shtml#acti\" id=\"\
+    autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">activos fijos</a>&nbsp;principalmente),\
+    \ comprar la&nbsp;<a href=\"https://www.monografias.com/trabajos14/costosbanc/costosbanc.shtml#MATER\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">materia prima</a>&nbsp;para nuestra&nbsp;<a\
+    \ href=\"https://www.monografias.com/trabajos16/estrategia-produccion/estrategia-produccion.shtml\"\
+    \ id=\"autolink\" class=\"autolink\" style=\"color: rgb(0, 128, 64); border-bottom-width:\
+    \ 1px; border-bottom-color: rgb(51, 102, 0);\">producci\xF3n</a>, etc. Si esto\
+    \ la empresa lo sigue al pie de la letra, podemos asegurar que la empresa tiene\
+    \ futuro, por tanto los accionistas invertir\xE1n m\xE1s en nuestra empresa por\
+    \ que la ven fuerte econ\xF3micamente hablando.</p>"
+  id: page3
+  title: "D\xEDa 3: Objetivos y metas de la empresa"
+  type: Page
+rules:
+  access:
+  - if_has_role: [ta, student, instructor]
+    permissions: [view]
+  grade_identifier: null
+title: "Semana 1 - Conceptos generales de administraci\xF3n financiera"
